@@ -41,7 +41,7 @@
 
 ## Trophies 🏆 :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Juanhmdev)](https://github.com/Juanhmdev/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Juanhmdev&column=-1&title=Commit,Repositories,Stars,PullRequest,Followers)](https://github.com/Juanhmdev/github-profile-trophy)
 
 <br>
 
