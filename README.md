@@ -27,7 +27,8 @@
 
 ## Habilidades 🚀:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,vite,js,ts,nodejs,py,react,figma,xd,ps,ai,git,github,notion,vscode,wordpress&theme=light)](https://skillicons.dev)
+
 
 <br>
 
