@@ -49,7 +49,7 @@
 
 ### 🔧 Herramientas y Productividad  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,wordpress" />
+  <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,wordpress,powerbi,sqlserver" />
 </p>
 
 ---
