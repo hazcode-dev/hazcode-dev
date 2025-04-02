@@ -66,15 +66,16 @@
 
   <!-- GitHub Stats -->
   <a href="https://github.com/Juanhmdev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Juanhmdev&theme=calm&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Juanhmdev&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0, 255, 0, 0.6); border: 2px solid #00FF00;"/>
   </a>
 
   <!-- Top Languages -->
   <a href="https://github.com/Juanhmdev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanhmdev&theme=calm&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" style="border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanhmdev&theme=dark&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0, 255, 0, 0.6); border: 2px solid #00FF00;"/>
   </a>
 
 </div>
+
 
 
 
