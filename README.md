@@ -15,7 +15,7 @@
 
 ## Conéctate conmigo ☕:
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/TU_PERFIL/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/Juanhmdev/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 <a href="mailto:TUCORREO@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/></a>
