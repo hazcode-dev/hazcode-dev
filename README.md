@@ -19,8 +19,8 @@
 
 ## 🏆 Sobre Mí  
 
-- 🏢 Actualmente trabajo como **Administrador de Obras Públicas** en **Municipalidad de Villa María del Triunfo**  
-- 🎓 Licenciado en **Administración de Empresas**  
+- 🏢 Actualmente trabajo como **Administrador de Obras Públicas** en **Municipalidad de VMT**  
+- 🎓 Licenciado en **Administración de Empresas** y estudiante de **Ingenieria Industrial** 
 - 📊 Especializado en **Análisis de Datos, SQL, Python, Power BI y Tableau**  
 - 🔍 Interesado en **Gestión Pública y Desarrollo Web con React.js**  
 - 🚒 Bombero voluntario en **CGBVP - Compañía Chosica B-32**  
