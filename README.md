@@ -27,7 +27,7 @@
 
 ## Habilidades 🚀:
 
-<img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/sql.png"/> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <br>
 
