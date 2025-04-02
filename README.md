@@ -66,9 +66,6 @@
   <a href="https://github.com/Juanhmdev/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Juanhmdev&theme=algolia&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Juanhmdev/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanhmdev&theme=algolia&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
   </a>
