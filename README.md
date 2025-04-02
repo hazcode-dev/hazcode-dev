@@ -1,12 +1,6 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Juan Andrés Hazaña ✨</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Juanhmdev?style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/Juanhmdev?style=social" alt="GitHub stars">
-  <img src="https://komarev.com/ghpvc/?username=Juanhmdev" alt="Profile Views">
-</p>
-
-<p align="center">
   <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
 <a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
 <a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -14,9 +8,7 @@
 <a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
-
 ---
-
 ## 🏆 Sobre Mí  
 
 - 🏢 Actualmente trabajo como **Administrador de Obras Públicas** en **Municipalidad de Villa María del Triunfo**  
