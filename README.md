@@ -15,10 +15,13 @@
 
 ## Conéctate conmigo ☕:
 
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/TU_PERFIL/)  
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/Juanhmdev/)  
-[![Correo](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:TUCORREO@gmail.com)
-[![Behance](https://img.icons8.com/fluency/48/000000/behance.png)](mailto:TUCORREO@gmail.com)
+<p align="center">
+<a href="https://www.linkedin.com/in/TU_PERFIL/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+<a href="https://www.instagram.com/Juanhmdev/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href="mailto:TUCORREO@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/></a>
+<a href="https://www.behance.net/TU_PERFIL/"><img src="https://img.icons8.com/fluency/48/000000/behance.png"/></a>
+<a href="https://www.figma.com/@TUPERFIL/"><img src="https://img.icons8.com/fluency/48/000000/figma.png"/></a>
+</p>
 
 <br>
 
