@@ -64,12 +64,13 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://github.com/Juanhmdev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Juanhmdev&theme=algolia&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Juanhmdev&theme=algolia&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="vertical-align: middle;" />
   </a>
   <a href="https://github.com/Juanhmdev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanhmdev&theme=algolia&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanhmdev&theme=algolia&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" style="vertical-align: middle;" />
   </a>
 </div>
+
 
 ---
 
