@@ -47,7 +47,7 @@
 
 ## Actividad 📊 :
 
-[![Actividad GitHub](https://activity-graph.herokuapp.com/graph?username=Juanhmdev&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/Juanhmdev/github-readme-activity-graph)
+[![Actividad GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Juanhmdev&theme=react-dark&hide_border=true&area=true)](https://github.com/Juanhmdev/github-readme-activity-graph)
 
 ---
 
