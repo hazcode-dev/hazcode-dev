@@ -62,14 +62,20 @@
 
 ## 📈 GitHub Stats  
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+
+  <!-- GitHub Stats -->
   <a href="https://github.com/Juanhmdev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Juanhmdev&theme=algolia&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="vertical-align: middle;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Juanhmdev&theme=calm&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);"/>
   </a>
+
+  <!-- Top Languages -->
   <a href="https://github.com/Juanhmdev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanhmdev&theme=algolia&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" style="vertical-align: middle;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanhmdev&theme=calm&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" style="border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);"/>
   </a>
+
 </div>
+
 
 
 ---
