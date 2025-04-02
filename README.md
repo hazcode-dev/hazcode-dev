@@ -25,9 +25,33 @@
 
 <br>
 
-## Habilidades 🚀:
+## 🚀 Habilidades  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,vite,js,ts,nodejs,py,react,figma,xd,ps,ai,git,github,notion,vscode,wordpress&theme=light)](https://skillicons.dev)
+### 🌐 Desarrollo Web  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,vite" />
+</p>
+
+### 💻 Programación  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py" />
+</p>
+
+### ⚡ Frameworks y Librerías  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### 🎨 Diseño y Prototipado  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai" />
+</p>
+
+### 🔧 Herramientas y Productividad  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,wordpress" />
+</p>
+
 
 
 <br>
