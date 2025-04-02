@@ -18,6 +18,7 @@
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/TU_PERFIL/)  
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/Juanhmdev/)  
 [![Correo](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:TUCORREO@gmail.com)
+[![Behance](https://img.icons8.com/fluency/48/000000/Behance.png)]
 
 <br>
 
