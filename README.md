@@ -19,7 +19,6 @@
 - 📊 Especializado en **Análisis de Datos, SQL, Python, Power BI y Excel**  
 - 🔍 Interesado en **Gestión de proyectos, **Analisis de datos** y Desarrollo Web con React.js**  
 - 🚒 Bombero voluntario en **CGBVP - Compañía Chosica B-32**  
-- ⚡ **Dato Curioso:** [Algo divertido sobre ti] 😆  
 
 ---
 
