@@ -58,7 +58,7 @@
   <!-- GitHub Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Juanhmdev&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Juanhmdev/github-readme-stats)
 
   <!-- Top Languages -->
   <a href="https://github.com/Juanhmdev/github-readme-stats">
