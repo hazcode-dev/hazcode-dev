@@ -65,7 +65,7 @@
     <td>
       <!-- Top Languages -->
       <a href="https://github.com/Juanhmdev/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanhmdev&theme=dark&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanhmdev&theme=dark&layout=compact&langs_count=8&hide_border=true&card_width=400" alt="Top Languages" />
       </a>
     </td>
   </tr>
