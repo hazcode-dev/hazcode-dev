@@ -56,7 +56,7 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
   <!-- GitHub Stats -->
- [![GitHub Streak](https://streak-stats.demolab.com?user=Juanhmdev&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Juanhmdev&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
   <!-- Top Languages -->
   <a href="https://github.com/Juanhmdev/github-readme-stats">
