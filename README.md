@@ -1,10 +1,3 @@
-## 🗓️ Contribuciones por Día
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/Juanhmdev" alt="Gráfico de contribuciones de Juanhmdev" />
-</p>
-
-
 
 ## 🏆 Sobre Mí  
 
