@@ -1,3 +1,23 @@
+<td style="width: 15px;"></td>
+
+<td>
+  <a href="https://github.com/Juanhmdev/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanhmdev&theme=dark&layout=compact&langs_count=8&hide_border=true&card_width=400" alt="Top Languages" />
+  </a>
+</td>
+
+<td style="width: 15px;"></td>
+
+<td>
+  <a href="https://github.com/Juanhmdev/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Juanhmdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+</td>
+
+
+
+
+
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Juan Andrés Hazaña / Juanhmdev ✨</h1>
 
 <p align="center">
