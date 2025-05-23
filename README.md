@@ -53,17 +53,23 @@
 
 ## 📈 GitHub Stats  
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<table>
+  <tr>
+    <td>
+      <!-- GitHub Streak -->
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Juanhmdev&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <!-- Top Languages -->
+      <a href="https://github.com/Juanhmdev/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanhmdev&theme=dark&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <!-- GitHub Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Juanhmdev&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
-
-  <!-- Top Languages -->
-  <a href="https://github.com/Juanhmdev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanhmdev&theme=dark&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0, 255, 0, 0.6); border: 2px solid #00FF00;"/>
-  </a>
-
-</div>
 
 
 
