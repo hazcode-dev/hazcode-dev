@@ -1,7 +1,5 @@
-## 🗓️ Contribuciones por Día
-
 <p align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/Juanhmdev?color=58A6FF&theme=dark" alt="Gráfico de contribuciones de Juanhmdev" />
+  <img src="https://ghchart.rshah.org/58A6FF/Juanhmdev" alt="Gráfico de contribuciones de Juanhmdev" />
 </p>
 
 
