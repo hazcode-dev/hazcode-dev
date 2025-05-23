@@ -61,7 +61,7 @@
         <img src="https://streak-stats.demolab.com?user=Juanhmdev&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
       </a>
     </td>
-    <td style="width: 15px;"></td> <!-- Espaciador -->
+    <td style="width: 25px;"></td> <!-- Espaciador -->
     <td>
       <!-- Top Languages -->
       <a href="https://github.com/Juanhmdev/github-readme-stats">
