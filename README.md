@@ -56,9 +56,7 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
   <!-- GitHub Stats -->
-  <a href="https://github.com/Juanhmdev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Juanhmdev&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0, 255, 0, 0.6); border: 2px solid #00FF00;"/>
-  </a>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Juanhmdev&theme=dark)](https://git.io/streak-stats)
 
   <!-- Top Languages -->
   <a href="https://github.com/Juanhmdev/github-readme-stats">
