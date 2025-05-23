@@ -1,3 +1,10 @@
+## 🗓️ Contribuciones por Día
+
+<p align="center">
+  <img src="https://github-contributions.vercel.app/api/v1/Juanhmdev?color=58A6FF&theme=dark" alt="Gráfico de contribuciones de Juanhmdev" />
+</p>
+
+
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Juan Andrés Hazaña / Juanhmdev ✨</h1>
 
 <p align="center">
