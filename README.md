@@ -1,18 +1,9 @@
-<img src="https://github-contributions.vercel.app/api/v1/Juanhmdev?color=58A6FF&theme=dark&size=14&radius=4" />
-
-<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Juan Andrés Hazaña / Juanhmdev ✨</h1>
+## 🗓️ Contribuciones por Día
 
 <p align="center">
-  <a href="https://www.behance.net/juananhazaa" target="blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="unsimpledev" /></a>
-  <a href="https://www.figma.com/@unsimpledev" target="blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="unsimpledev" /></a>
-  <a href="https://linkedin.com/in/juan-andrés-hazaña-muñoz/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev" /></a>
-  <a href="https://www.instagram.com/juan_hazana/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="unsimpledev" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=juanandres070502@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="unsimpledev" />
-</a>
+  <img src="https://github-contributions.vercel.app/api/v1/Juanhmdev?color=58A6FF&theme=dark" alt="Gráfico de contribuciones de Juanhmdev" />
 </p>
 
----
 
 ## 🏆 Sobre Mí  
 
