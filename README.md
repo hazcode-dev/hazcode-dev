@@ -58,6 +58,8 @@
   <!-- GitHub Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Juanhmdev&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
   <!-- Top Languages -->
   <a href="https://github.com/Juanhmdev/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanhmdev&theme=dark&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0, 255, 0, 0.6); border: 2px solid #00FF00;"/>
