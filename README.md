@@ -57,14 +57,14 @@
     <td>
       <!-- GitHub Streak -->
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Juanhmdev&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=hazcode-dev&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
       </a>
     </td>
     <td style="width: 55px;"></td> <!-- Espaciador -->
     <td>
       <!-- Top Languages -->
       <a href="https://github.com/Juanhmdev/github-readme-stats">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanhmdev&theme=dark&layout=compact&langs_count=8&hide_border=true&card_width=450" alt="Top Languages" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazcode-dev&theme=dark&layout=compact&langs_count=8&hide_border=true&card_width=450" alt="Top Languages" />
       </a>
     </td>
   </tr>
@@ -76,7 +76,7 @@
 
 <p align="center">
   <a href="https://github.com/Juanhmdev/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Juanhmdev&column=4&theme=algolia&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hazcode-dev&column=4&theme=algolia&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -86,7 +86,7 @@
 
 <p align="center">
   <a href="https://github.com/Juanhmdev/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juanhmdev&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hazcode-dev&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
   </a>
 </p>
 
