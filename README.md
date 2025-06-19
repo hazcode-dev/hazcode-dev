@@ -13,7 +13,6 @@
 ---
 ## 🏆 Sobre Mí  
 
-- 🏢 Actualmente trabajo como **Administrador de Obras Públicas** en **Municipalidad de VMT**  
 - 🎓 Licenciado en **Administración de Empresas** y estudiante de **Ingenieria Industrial** 
 - 📊 Especializado en **Análisis de Datos, SQL, Python, Power BI y Excel**  
 - 🔍 Interesado en **Gestión de proyectos, **Analisis de datos** y Desarrollo Web con React.js**  
