@@ -56,7 +56,7 @@
     <td>
       <!-- GitHub Streak -->
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=hazcode-dev&theme=dark)](https://git.io/streak-stats" />
+        <img src="https://streak-stats.demolab.com?hazcode-dev=&theme=tokyonight-duo&hide_border=true&short_numbers=true)](https://git.io/streak-stats" />
       </a>
     </td>
     <td style="width: 55px;"></td> <!-- Espaciador -->
