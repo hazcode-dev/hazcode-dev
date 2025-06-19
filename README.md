@@ -50,7 +50,7 @@
 ---
 
 ## 📈 GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hazcode-dev&theme=dark)](https://git.io/streak-stats)
+
 <table>
   <tr>
     <td>
